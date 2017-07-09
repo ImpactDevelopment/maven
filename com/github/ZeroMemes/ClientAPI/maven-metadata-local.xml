@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.ZeroMemes</groupId>
+  <artifactId>ClientAPI</artifactId>
+  <versioning>
+    <release>2.1-dev</release>
+    <versions>
+      <version>1.0</version>
+      <version>2.0</version>
+      <version>2.0-dev</version>
+      <version>1.0-dev</version>
+      <version>2.1-dev</version>
+      <version>2.1</version>
+    </versions>
+    <lastUpdated>20170811201519</lastUpdated>
+  </versioning>
+</metadata>

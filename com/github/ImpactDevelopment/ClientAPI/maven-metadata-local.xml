@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.ImpactDevelopment</groupId>
+  <artifactId>ClientAPI</artifactId>
+  <versioning>
+    <release>3.0.2</release>
+    <versions>
+      <version>3.0.0-dev</version>
+      <version>3.0.0</version>
+      <version>3.0.1</version>
+      <version>3.0.1-srg</version>
+      <version>3.0.2-srg</version>
+      <version>3.0.2</version>
+    </versions>
+    <lastUpdated>20180716234751</lastUpdated>
+  </versioning>
+</metadata>

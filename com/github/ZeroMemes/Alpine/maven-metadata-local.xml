@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.ZeroMemes</groupId>
+  <artifactId>Alpine</artifactId>
+  <versioning>
+    <release>1.8</release>
+    <versions>
+      <version>1.4</version>
+      <version>1.5</version>
+      <version>1.6</version>
+      <version>1.7</version>
+      <version>1.8</version>
+    </versions>
+    <lastUpdated>20180915210351</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,2 +1,1 @@
-#ClientAPI Repo
-Temporary repo to mimick a maven one
+# Maven Repo
