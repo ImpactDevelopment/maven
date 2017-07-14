@@ -1,2 +1,2 @@
-# ClientAPI Repo
-Temporary repo to mimick a maven one
+# ImpactDevelopment Maven
+Maven repo for clientapi, alpine, anything that needs building really...
