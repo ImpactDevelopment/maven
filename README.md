@@ -1,2 +1,1 @@
-# ImpactDevelopment Maven
-Maven repo for clientapi, alpine, anything that needs building really...
+Maven repo
