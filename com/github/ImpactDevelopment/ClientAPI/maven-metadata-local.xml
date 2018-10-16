@@ -3,7 +3,7 @@
   <groupId>com.github.ImpactDevelopment</groupId>
   <artifactId>ClientAPI</artifactId>
   <versioning>
-    <release>3.0.2</release>
+    <release>3.1.0-srg</release>
     <versions>
       <version>3.0.0-dev</version>
       <version>3.0.0</version>
@@ -11,7 +11,9 @@
       <version>3.0.1-srg</version>
       <version>3.0.2-srg</version>
       <version>3.0.2</version>
+      <version>3.1.0</version>
+      <version>3.1.0-srg</version>
     </versions>
-    <lastUpdated>20180716234751</lastUpdated>
+    <lastUpdated>20181016005116</lastUpdated>
   </versioning>
 </metadata>
