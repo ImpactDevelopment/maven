@@ -13,7 +13,7 @@ repositories {
 ## Maven
 ```xml
 <repository>
-    <id>impactdevelopment-repo</id>
-    <url>https://impactdevelopment.github.io/maven</url>
+  <id>impactdevelopment-repo</id>
+  <url>https://impactdevelopment.github.io/maven</url>
 </repository>
 ```
