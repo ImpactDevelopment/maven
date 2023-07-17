@@ -1,0 +1,132 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.ZeroMemes",
+    "module": "Alpine",
+    "version": "3.1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "it.unimi.dsi",
+          "module": "fastutil",
+          "version": {
+            "requires": "8.5.12"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "Alpine-3.1.0.jar",
+          "url": "Alpine-3.1.0.jar",
+          "size": 51062,
+          "sha512": "6ed7ba78d0b558111e69b47206a46b3b35fcfe3496433901b8e68f7c43ecf3ebc444ae251850b05cdc4241b9724fcf06e30d351202e11a0369fdc7fd49778b29",
+          "sha256": "5f482868cca28eaabff3324a79f8f2ce940fe336704c49f668614a1d085d941c",
+          "sha1": "08440c671197713a52c1a8dc0f8fee9d6b4844ed",
+          "md5": "1b8cbdccffe117da94bde73ef21a5cfb"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.jodah",
+          "module": "typetools",
+          "version": {
+            "requires": "0.6.3"
+          }
+        },
+        {
+          "group": "org.jetbrains",
+          "module": "annotations",
+          "version": {
+            "requires": "24.0.1"
+          }
+        },
+        {
+          "group": "it.unimi.dsi",
+          "module": "fastutil",
+          "version": {
+            "requires": "8.5.12"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "Alpine-3.1.0.jar",
+          "url": "Alpine-3.1.0.jar",
+          "size": 51062,
+          "sha512": "6ed7ba78d0b558111e69b47206a46b3b35fcfe3496433901b8e68f7c43ecf3ebc444ae251850b05cdc4241b9724fcf06e30d351202e11a0369fdc7fd49778b29",
+          "sha256": "5f482868cca28eaabff3324a79f8f2ce940fe336704c49f668614a1d085d941c",
+          "sha1": "08440c671197713a52c1a8dc0f8fee9d6b4844ed",
+          "md5": "1b8cbdccffe117da94bde73ef21a5cfb"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "Alpine-3.1.0-javadoc.jar",
+          "url": "Alpine-3.1.0-javadoc.jar",
+          "size": 148915,
+          "sha512": "049bdf49bc13f85910d4f21928c60753cb0f8e56ed531d25afa997e5133ac87fcbb7e201af6b560c4e307a11e1dac7feed7c49c6b537f883bfc17d6364f00570",
+          "sha256": "e47fae2ebdf4ea19c3ca19bb2e8e5da8bbf3299d94e6a452d10f5c6c97f161ea",
+          "sha1": "a1b82c989c374ffbac1431c701a89ad38bbff379",
+          "md5": "395f06264e0317a81f85ef8549dc1a8f"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "Alpine-3.1.0-sources.jar",
+          "url": "Alpine-3.1.0-sources.jar",
+          "size": 33867,
+          "sha512": "5f61af33103977c9019e06614ee503d4fc9af98f8ff047c50c8323483667f2fe9271e389e7607044c5740b0b53eb6680d7b54cf2b8466d71ee25107a7606cf47",
+          "sha256": "ca7e7d7d4fb07bd52bf43b687144a97d654a867fc54673e0247e199a54a7a8ab",
+          "sha1": "2b6836b0e0bc92705af819134c62762574afa11f",
+          "md5": "2de5e840903e61cb60cf3ef4bb249e1c"
+        }
+      ]
+    }
+  ]
+}
